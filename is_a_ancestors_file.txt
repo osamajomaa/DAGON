@@ -1,0 +1,23 @@
+This file contains all the ancestors of the GO term:
+id: GO:0000056
+name: ribosomal small subunit export from nucleus
+namespace: biological_process
+def: "The directed movement of a ribosomal small subunit from the nucleus into the cytoplasm." [GOC:mah]
+that are related by is_a relationship.
+
+Ancestors:
+id: GO:0071428
+name: rRNA-containing ribonucleoprotein complex export from nucleus
+namespace: biological_process
+def: "The directed movement of a ribonucleoprotein complex that contains ribosomal RNA from the nucleus to the cytoplasm." [GOC:mah]
+
+id: GO:0000054
+name: ribosomal subunit export from nucleus
+namespace: biological_process
+def: "The directed movement of a ribosomal subunit from the nucleus into the cytoplasm." [GOC:ai]
+
+id: GO:0033753
+name: establishment of ribosome localization
+namespace: biological_process
+def: "The directed movement of the ribosome to a specific location." [GOC:mah]
+
